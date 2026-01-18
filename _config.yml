@@ -16,7 +16,7 @@ timezone: Australia/Brisbane
 
 title: Jamie Westerhout # the main title
 
-tagline: Sharing what I learn while trying everythign once building software, data pipelines, and AI models. # it will display as the subtitle
+tagline: Sharing what I learn while trying everything once building software, data pipelines, and AI models. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Information on building software, data pipelines, and AI models.
