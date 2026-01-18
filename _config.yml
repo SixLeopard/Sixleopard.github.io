@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  username: SixLeopard # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/SixLeopard/Sixleopard.github.io/blob/main/assets/ProfilePicture.jpg
+avatar: /assets/ProfilePicture.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
