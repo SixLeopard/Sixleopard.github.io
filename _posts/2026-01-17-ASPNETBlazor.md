@@ -1,6 +1,6 @@
 ---
 title: Making Web Apps Entirely in C#
-date: 2026-06-20 22:00:00 +1000
+date: 2000-06-20 22:00:00 +1000
 categories: [Development, Web]
 tags: [ASP.NET Core Blazor, C#, Web Development, Backend, Frontend]
 ---

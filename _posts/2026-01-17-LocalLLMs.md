@@ -1,6 +1,6 @@
 ---
 title: Self-Hosting LLMs — My Experience with Ollama and LM Studio
-date: 2000-05-27 22:00:00 +1000
+date: 2026-05-27 22:00:00 +1000
 categories: [Machine Learning, LLM]
 tags: [machine learning, llm, self-hosting, ollama, lm studio]
 ---
