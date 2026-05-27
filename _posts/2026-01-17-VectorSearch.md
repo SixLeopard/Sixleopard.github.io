@@ -1,6 +1,6 @@
 ---
 title: Vector Search
-date: 2026-05-30 22:00:00 +1000
+date: 2000-05-30 22:00:00 +1000
 categories: [Machine Learning, Embeddings]
 tags: [machine learning, llm, RAG, vector search, embeddings, ANN, databases]
 ---
