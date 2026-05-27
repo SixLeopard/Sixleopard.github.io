@@ -1,13 +1,20 @@
 ---
 title: Vector Search
-date: 2026-05-27 22:00:00 +1000
-categories: [Machine Learning]
+date: 2026-05-30 22:00:00 +1000
+categories: [Machine Learning, Embeddings]
 tags: [machine learning, llm, RAG, vector search, embeddings, ANN, databases]
 ---
 
 # 🚧 UNDER CONSTRUCTION 🚧
 
-# How Vector Search Actually Works: From Embeddings to HNSW and IVF-PQ
+Will cover:
+- Embeddings
+- What is Vector Search and why
+- HNSW
+- IVF-PQ
+- Vector Databases
+
+<!--# How Vector Search Actually Works: From Embeddings to HNSW and IVF-PQ
 
 *[Optional subtitle or one-line hook — what will the reader walk away knowing?]*
 
@@ -230,3 +237,4 @@ Candidates to mention:
 - [Any blog posts or talks that shaped your thinking — credit them]
 
 ---
+-->

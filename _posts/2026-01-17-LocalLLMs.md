@@ -95,13 +95,13 @@ If you're comfortable in a terminal and want to integrate local models into your
 
 A few models I'd recommend starting with, depending on your hardware:
 
-- **Llama 3.2 3B** — very fast, surprisingly capable, good for lower-VRAM machines
-- **Mistral 7B** — solid all-rounder
-- **Qwen2.5-Coder 7B** — strong at code tasks
-- **Gemma 3 12B** — great quality if you have the VRAM headroom
+- **Gemma4 e4b** — Good balance between size and performance
+- **qwen3.5 2b** — Tiny model, great for running on low power machines
+- **gpt-oss 20b** — Best for having that chatgpt at home experince on a resonable computer
+- **Gqwen3-coder:30b** — great for using with claude code
 
 ## Final Thoughts
 
-<!-- Add your personal take here — what surprised you, what you'll keep using, any rough edges you hit -->
+Self-hosting LLMs is more accessible than ever. Neither tool requires deep ML knowledge to get running, and the quality of open models has improved enormously. If you have a modern or spare machine and are curious about running AI locally, it's worth an afternoon.
 
-Self-hosting LLMs is more accessible than I expected. Neither tool requires deep ML knowledge to get running, and the quality of open models has improved enormously. If you have a modern machine and any curiosity about running AI locally, it's worth an afternoon.
+I'll contiune to use self hosted models and am looking at setting up my own RAG (Retrieval Augmented Generation) with a NAS (Network Attached Storage). But for coding and more complex task i will stick to the cloud models for now, until i can my hands on some super powerful GPUs to run models that are comprable in performance.
